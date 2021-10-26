@@ -1,4 +1,4 @@
 fun main() {
-	println("Hello, World! a ")
+	println("Hello, World!")
 }
 //test
